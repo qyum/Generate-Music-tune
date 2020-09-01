@@ -1,5 +1,5 @@
 # Generate-Music-tune
-Generate music using Deep Learning
+Generate music using Deep Learning(char-Rnn/Lstm
 
 
 
