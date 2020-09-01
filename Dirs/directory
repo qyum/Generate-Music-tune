@@ -1,0 +1,5 @@
+DATA_DIR ='/content/drive/My Drive/char-rnn-keras-master.zip (Unzipped Files)/char-rnn-keras-master/data'
+#train_data=os.path.join(data_folder,'data.txt')
+#train_data=pd.read_csv('train_data')
+
+LOG_DIR = '/content/drive/My Drive/char-rnn-keras-master.zip (Unzipped Files)/char-rnn-keras-master/logs'
