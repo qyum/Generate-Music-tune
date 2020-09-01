@@ -3,3 +3,4 @@ DATA_DIR ='/content/drive/My Drive/char-rnn-keras-master.zip (Unzipped Files)/ch
 #train_data=pd.read_csv('train_data')
 
 LOG_DIR = '/content/drive/My Drive/char-rnn-keras-master.zip (Unzipped Files)/char-rnn-keras-master/logs'
+MODEL_DIR = '/content/drive/My Drive/char-rnn-keras-master.zip (Unzipped Files)/char-rnn-keras-master/model'
